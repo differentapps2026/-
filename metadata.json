@@ -1,0 +1,6 @@
+{
+  "name": "عالم أفلام باربي",
+  "description": "تطبيق لعرض أفلام باربي باللغة العربية مترجمة ومدبلجة مع ميزات التحميل، الجودة، سجل المشاهدة، المفضلة، ونظام دعم فني ذكي بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
